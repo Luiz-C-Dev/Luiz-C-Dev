@@ -17,8 +17,9 @@ I am Luiz Carlos Cardoso, I am currently in a study program sponsored by BRQ at 
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Luiz-C-Dev&row=1&no-bg=true)
-![Luiz-C-Dev GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-C-Dev&show_icons=true&count_private=true&theme=great-gatsby) </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-C-Dev&theme=great-gatsby&layout=compact)](https://github.com/Luiz-C-Dev)
+![Luiz-C-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luiz-C-Dev&theme=github_dark&show_icons=true) </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-C-Dev&layout=donut&theme=github_dark)](https://github.com/Luiz-C-Dev/github-readme-stats)
+
 </br>
 </br>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
