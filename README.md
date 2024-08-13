@@ -34,5 +34,5 @@ I am Luiz Carlos Cardoso, I am currently in a study program sponsored by BRQ at 
 </span>
 
 ## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-<a href="https://instagram.com/akuseru_p1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Luiz-C-Dev Instagram" height="30" width="40" /></a>
+<a href="https://instagram.com/luizsempressa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Luiz-C-Dev Instagram" height="30" width="40" /></a>
 <a href="https://github.com/Luiz-C-Dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Luiz-C-Dev Github" height="30" width="40" /></a>
